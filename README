@@ -1,0 +1,5 @@
+##Example command:
+.\EZDent_Backup.ps1 -BackupRoot [PATH_TO_BACKUP_FOLDER_WITHOUT_TIMESTAMP]
+
+### Note
+The Timestamp folder will be created inside the BackupRoot Folder automatically.
